@@ -1,0 +1,23 @@
+{
+    "development": {
+      "dialect": "mysql",
+      "host": "localhost",
+      "username": "root",
+      "password": "",
+      "database": "crestcoder"
+    },
+    "test": {
+      "dialect": "mysql",
+      "host": "localhost",
+      "username": "root",
+      "password": "",
+      "database": "crestcoder"
+    },
+    "production": {
+      "dialect": "mysql",
+      "host": "localhost",
+      "username": "root",
+      "password": "",
+      "database": "crestcoder"
+    }
+  }
